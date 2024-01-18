@@ -12,6 +12,7 @@
         <module>eureka-discovery-server</module>
         <module>eureka-client-discovery</module>
         <module>api-gateway</module>
+        <module>config-service</module>
     </modules>
 
     <properties>
