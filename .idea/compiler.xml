@@ -12,5 +12,8 @@
         <module name="eureka-discovery-server" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-client" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
